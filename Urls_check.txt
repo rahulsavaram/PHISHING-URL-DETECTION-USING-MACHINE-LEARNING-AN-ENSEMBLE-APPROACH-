@@ -1,0 +1,33 @@
+Legitimate Urls:
+
+https://www.google.com/?gws_rd=ssl
+
+https://www.microsoft.com/es-es/
+
+https://www.netflix.com/es-en/
+
+https://www.wellsfargo.com/
+
+https://www.booking.com/
+
+https://accounts.google.com/signin/v2/identifier?hl=es&passive=true&continue=https%3A%2F%2Fw...
+
+https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1572459869&rver 7.0.6730.0&wp=L...
+
+https://www.netflix.com/es/login
+
+https://www.wellsfargo.com
+
+https://account.booking.com/register?op_token=EgVvYXV0aCLABAoUdk8xS2Jsazd4WDl0VW4yY...
+
+Phishing urls:
+
+http://google-ads-update-com.umbler.net/gmail/login/index.html
+
+http://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-3...
+
+htps://netflix-optusnetau.com/9fa04f87c9138de23e92582b4ce549ec/
+
+http://sycon.co.in/wellsf/https.wellsfargo.com.home/https.wellsfargo.com.home/wells-fargo-securit...
+
+htps://azizi.groupbooking.co.in/
